@@ -1,5 +1,7 @@
 # Death Metal
 
+* [Bandcamp Technical Death Metal Search](https://bandcamp.com/tag/technical-death-metal?sort_field=date)
+
 * [Abhorrent - Intransigence](https://abhorrentdeathmetal.bandcamp.com/album/intransigence)
 * [Acrucé Mortem - Enslaved in Servitude](https://acrucemortem.bandcamp.com/album/enslaved-in-servitude)
 * [Act Of Worship - Dominate Eradicate](https://actofworship.bandcamp.com/album/dominate-eradicate)
@@ -19,7 +21,6 @@
 * [Assault on the Living - The Global Purge](https://assaultontheliving.bandcamp.com/album/the-global-purge)
 * [Ataxia - Awaken The Nebula](https://ataxiacanada.bandcamp.com/album/awaken-the-nebula)
 * [Attic - Seasons](https://attic-us.bandcamp.com/album/seasons)
-* [Bandcamp Technical Death Metal Search](bandcamp.com/tag/technical-death-metal?sort_field=date)
 * [Banisher - Oniric Delusions](https://banisher.bandcamp.com/album/oniric-delusions)
 * [Basilisk - The Void](https://basilisk.bandcamp.com/album/the-void)
 * [Black Crown Initiate - Song of the Crippled Bull](https://blackcrowninitiate.bandcamp.com/)
@@ -98,10 +99,9 @@
 * [Rites to Sedition - Ancestral Blood](https://ritestosedition.bandcamp.com/album/ancestral-blood)
 * [Sadist - Hyaena](https://scarletrecords.bandcamp.com/album/hyaena)
 * [Scarab - Serpents of the Nile](http://vicisolumrecords.com/album/serpents-of-the-nile)
-* [Screaming Savior - Semblances of the Void](https://screamingsavior.bandcamp.com/)
 * [Sentient Horror - Sentient Horror • Ungodly Forms](https://testimonyrecords.bandcamp.com/album/sentient-horror-ungodly-forms)
+* [Septycal Gorge - Erase the Insignificant](https://comatosemusic.bandcamp.com/album/erase-the-insignificant)
 * [Septycal Gorge - Scourge of the Formless Breed](https://comatosemusic.bandcamp.com/album/scourge-of-the-formless-breed)
-* [Seraph in Travail - Bring Forth Death](https://seraphintravail.bandcamp.com/album/bring-forth-death-2)
 * [Serocs - And When The Sky Was Opened](https://serocs.bandcamp.com/album/and-when-the-sky-was-opened)
 * [Serocs - The Next](https://serocs.bandcamp.com/album/the-next)
 * [Shadow Of Intent - Inferi Sententia](https://shadowofintent7.bandcamp.com/album/inferi-sententia)
