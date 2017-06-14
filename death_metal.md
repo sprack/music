@@ -78,6 +78,7 @@
 * [Marasmus - Conjuring Enormity](https://marasmus.bandcamp.com/album/conjuring-enormity)
 * [Mindscar - Kill The King](https://mindscar.bandcamp.com/album/kill-the-king)
 * [Moloken - All Is Left To See](https://moloken.bandcamp.com/)
+* [Moonloop - Devocean](https://moonloop.bandcamp.com/)
 * [Narada - Dead Waters](https://naradametal.bandcamp.com/album/dead-waters)
 * [Nerodia - Vanity Unfair](https://nerodiaband.bandcamp.com/album/vanity-unfair)
 * [Node - Cowards Empire](https://nodepace.bandcamp.com/album/cowards-empire)
