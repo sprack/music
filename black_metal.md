@@ -9,6 +9,7 @@
 * [Carach Angren - Where the Corpses Sink Forever](https://carachangrenbm.bandcamp.com/album/where-the-corpses-sink-forever)
 * [Crown The Fallen - The Passing of Greed](https://crownthefallen.bandcamp.com/album/the-passing-of-greed)
 * [Djevel - Besatt Av Maane Og Natt](https://www.youtube.com/watch?v=J6Uy-rNiJQ8)
+* [Enthean - Priests of Annihilation](https://enthean.bandcamp.com/album/priests-of-annihilation)
 * [Enthring - The Grim Tales of the Elder](https://enthring.bandcamp.com/album/the-grim-tales-of-the-elder)
 * [Ghoulchapel - Echoes Of Horror](https://ghoulchapel.bandcamp.com/album/echoes-of-horror)
 * [Khold - Morke Gravers Kammer](https://candlelightrecordsuk.bandcamp.com/album/morke-gravers-kammer)
